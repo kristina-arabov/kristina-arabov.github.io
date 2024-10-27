@@ -28,7 +28,7 @@ twitter_username:
 github_username:  kristina-arabov
 
 # Build settings
-theme: minima
+theme: main
 plugins:
   - jekyll-feed
 
